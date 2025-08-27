@@ -1,4 +1,8 @@
 # WideOpenAI
+
+<img width="800" height="800" alt="wideopenai" src="https://github.com/user-attachments/assets/6770da09-7aca-4147-8a0b-4f800cbc14cf" />
+
+
 ***THIS REPO IS FOR EDUCATIONAL PURPOSES ONLY!***
 
 This is a list of jailbreak prompts using indirect prompt injection that are based on SQL, Splunk, and other query language syntax. Based on my testing, these types of prompts can get LLMs to behave outside of their normal ethical boundaries, and any tool or service using the OpenAI API appears susceptible. These were inspired by elder-plinius's work here: https://github.com/elder-plinius/L1B3RT45
